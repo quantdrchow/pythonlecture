@@ -1,5 +1,4 @@
 # pythonlecture
-python lecture for GuoSen
+Python lecture for GuoSen PostDoctoral Workstation
 
 
-This is guosen postdoctoral workstation, wellcome
